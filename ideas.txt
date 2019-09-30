@@ -1,0 +1,4 @@
+1. Recoger el Navegador del visitante
+2. Recoger datos de una web para cambiar el color de fondo según el tiempo.
+3. Ordenar los repositorios según la fecha de modificación.
+4. 
